@@ -5,5 +5,6 @@
 project('example', 'cpp')
 
 subdir('hello')
+subdir('tests')
 
 executable('example', 'main.cpp', dependencies : hello_dep)

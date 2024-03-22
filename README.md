@@ -15,5 +15,6 @@ Features:
 - README
 - built with meson
 - [REUSE](https://reuse.software) compliant (TODO: add a commit hook)
+- tests
 - .gitignore
 - .clang-format (TODO: add a commit hook)
