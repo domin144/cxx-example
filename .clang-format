@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-﻿---
+---
 BasedOnStyle: WebKit
 AlignAfterOpenBracket: AlwaysBreak
 AlwaysBreakAfterDefinitionReturnType: None
@@ -37,6 +37,6 @@ ConstructorInitializerAllOnOneLineOrOnePerLine: true
 Cpp11BracedListStyle: true
 NamespaceIndentation: None
 TabWidth: 4
-UseTab: ForIndentation
+UseTab: Never
 
 ...
