@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Dominik Wójt <domin144@o2.pl>
+#
+# SPDX-License-Identifier: Apache-2.0
+
 hello_includes = include_directories('include')
 subdir('include')
 
