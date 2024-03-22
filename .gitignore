@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Dominik Wójt <domin144@o2.pl>
+#
+# SPDX-License-Identifier: CC0-1.0
+
 .cache
 .vscode
 builddir
